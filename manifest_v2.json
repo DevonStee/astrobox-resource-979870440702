@@ -27,6 +27,21 @@
     }
   ],
   "downloads": {
+    "xmrw6": {
+      "version": "1.0.1",
+      "file_name": "downloads/MD Volume RW6.face",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "新增 REDMI Watch 6 支持"
+        },
+        {
+          "version": "1.0.1",
+          "content": "修正 REDMI Watch 6 屏幕四角内容被切的问题"
+        }
+      ]
+    },
     "xmb9p": {
       "version": "1.0.0",
       "file_name": "downloads/MD Volume Pro.face",
@@ -46,17 +61,6 @@
         {
           "version": "1.0.0",
           "content": "新增手环 9 Pro / 10 Pro 支持"
-        }
-      ]
-    },
-    "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/MD Volume RW6.face",
-      "versionCode": 65536,
-      "updatelogs": [
-        {
-          "version": "1.0.0",
-          "content": "新增 REDMI Watch 6 支持"
         }
       ]
     },
